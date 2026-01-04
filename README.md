@@ -1,1 +1,1 @@
-# payments-ledger-reference
+# Payments Ledger reference project.
